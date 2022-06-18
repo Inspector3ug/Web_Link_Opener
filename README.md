@@ -5,7 +5,7 @@ This is a Web Link Opener. I made this because I'm bored. Hopefully everyone can
 
 **Modules used:**
 - webbrowser (For web opener)
-- sys (Just for exit
+- sys (Just for exit)
 - time (For delay)
 
 **Notes:**
